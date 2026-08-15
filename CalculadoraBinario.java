@@ -18,28 +18,6 @@ public class CalculadoraBinario {
             
             valordecimal = valordecimal / 2;
         }
-        
-        
-
-       
-
-        
-
-
-        
-
-        
-
-        
-    
-
-        
-        
-        
-        
-        
-        
-
     }
 }
     
